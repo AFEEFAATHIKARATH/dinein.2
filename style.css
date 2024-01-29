@@ -15,7 +15,8 @@ body{
 
 nav{
     position: fixed;
-   
+
+	
     top: 0;
     left: 0;
     width: 100%;
@@ -347,7 +348,7 @@ section{
     top: 100;
     width: 100%;
 }
-.menu22 h1{
+.menu22 h2{
   text-align: center;
   top: 100;
   color: #e8e925;
