@@ -6,7 +6,7 @@ body{
     font-family: "Alegreya Sans SC", sans-serif;
   font-weight: 100;
   font-style: normal;
-  overflow-x:hidden;
+ 
   
     /* font-family: 'Courier New', Courier, monospace;
     */
@@ -428,10 +428,7 @@ section{
     margin-left: 660px;
   position: absolute;
   top:50%;
- display: flex;
-flex-wrap: wrap;
-align-items: center;
-justify-content: space-between;
+
 
   border: #e8e925 solid 2px;
   height: 72px;
